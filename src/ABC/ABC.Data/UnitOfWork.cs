@@ -22,9 +22,8 @@ namespace ABC.Data
             {
                 return _context.SaveChanges();
             }
-            catch (Exception ex)
+            catch 
             {
-
                 throw;
             }
         }
