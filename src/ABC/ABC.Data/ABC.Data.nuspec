@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>GenericRepoAndUnitOfWork</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Mustafa Saeed</authors>
+    <owners>Mustafa Saeed</owners>
+    <licenseUrl>https://github.com/mustafasaaed/GenericRepoAndUnitOfWorkPattern/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mustafasaaed/GenericRepoAndUnitOfWorkPattern</projectUrl>
+    <iconUrl>https://github.com/mustafasaaed/GenericRepoAndUnitOfWorkPattern</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Initial testing release</description>
+    <releaseNotes>Initial testing release</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Repo Repository UnitOfWork Unit Of Work Generic</tags>
+  </metadata>
+</package>
